@@ -9,7 +9,7 @@ sleep 6
 
 live_loop :uhh do
   sample :bd_ada, amp: 5.0
-  sleep 0.5
+  sleep 1
   sample :bd_ada
   sleep 1
 end
