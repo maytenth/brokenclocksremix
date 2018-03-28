@@ -1,0 +1,17 @@
+use_bpm 113
+
+live_loop :oop do
+  sample :bass_voxy_hit_c
+  sleep 4
+end
+
+sleep 6
+
+live_loop :uhh do
+  sample :bd_ada, amp: 5.0
+  sleep 0.5
+  sample :bd_ada
+  sleep 1
+end
+
+sleep 7
