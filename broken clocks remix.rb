@@ -20,6 +20,8 @@ nevergoingback2 = "/Users/LaneEmily/Desktop/nevergoingback2.wav"
 
 wheneversheneedsme = "/Users/LaneEmily/Desktop/wheneversheneedsme.wav"
 
+breathingsample = "/Users/LaneEmily/Desktop/breathingsample.wav"
+
 #I want to add an array of my samples eventually
 
 #this is my very first intro which I used a sample from the intro of a separate SZA song
@@ -60,6 +62,14 @@ sleep 7.5
 
 #this is where I would like my transition (I worked on one but don't like the fit of it)
 
+
+1.times do
+  sample breathingsample
+end
+
+sleep 4
+
+
 1.times do
   sample nevermakeme
 end
@@ -90,7 +100,8 @@ sleep 3.5
 end
 
 #I want to add more of my second song here then outro using samples of people talking/the artist talking
-#subtle acoustic guitar riffs as outro w/ faded vocals
+
+
 
 
 
