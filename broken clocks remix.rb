@@ -20,6 +20,8 @@ nevergoingback2 = "/Users/LaneEmily/Desktop/nevergoingback2.wav"
 
 wheneversheneedsme = "/Users/LaneEmily/Desktop/wheneversheneedsme.wav"
 
+#I want to add an array of my samples eventually
+
 #this is my very first intro which I used a sample from the intro of a separate SZA song
 begin
   1.times do
@@ -35,6 +37,7 @@ live_loop :yeet do
   sleep 8
 end
 
+#this is my custom drum beat created to mimic snare drum in background of song except I reversed it to make it sound smoother
 begin
   sleep 31
   live_loop :yuh do
@@ -55,7 +58,7 @@ end
 
 sleep 7.5
 
-
+#this is where I would like my transition (I worked on one but don't like the fit of it)
 
 1.times do
   sample nevermakeme
@@ -81,10 +84,12 @@ end
 
 sleep 3.5
 
+#this is the first sample of my second song im using
 1.times do
   sample wheneversheneedsme
 end
 
+#I want to add more of my second song here then outro using samples of people talking/the artist talking
 
 
 
