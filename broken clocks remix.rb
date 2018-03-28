@@ -90,6 +90,7 @@ sleep 3.5
 end
 
 #I want to add more of my second song here then outro using samples of people talking/the artist talking
+#subtle acoustic guitar riffs as outro w/ faded vocals
 
 
 
